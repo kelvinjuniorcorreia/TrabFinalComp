@@ -1,0 +1,34 @@
+//IF/ELSE -- se/senão
+if ( condição ) {
+  //block de código
+} else {
+  //block de código
+}
+
+//WHILE --Laço de repetição
+while ( condição ) {
+  //block de código
+  contador //caso necessário é possivel usar um contador para controlar a "condição"
+}
+
+//FOR
+for ( inicio )( condição_término ) { --Laço de repetição
+  //block de código
+  contador //caso necessário é possivel usar um contador para controlar o "término"
+}
+
+//INT/FLOAT --Tipo de dados
+int newVar
+float newVar2
+
+//PRINT -- printa uma informação na tela
+print { newVar }
+print { 1546 }
+
+//AND/OR -- e/ou
+if ( condição ) or ( condição ) {
+  //block de código
+}
+if ( condição ) and ( condição ) {
+  //block de código
+}

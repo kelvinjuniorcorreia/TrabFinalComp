@@ -1,0 +1,15 @@
+{
+    print { varT_est }
+    int varT_est = 0
+    if ( varTest == 0 ) or ( varTest < 5 ) {
+        print { varTest }
+    }
+    for ( varTest ) ( varTest < 15.0 ) {
+        if ( varTest < 10 ) {
+            print { varTest }!
+        } else {
+        varTest = varTest + 1
+        }
+    } 
+    /*TESTE_testando_12f3*/5258
+}
